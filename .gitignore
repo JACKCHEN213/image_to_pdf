@@ -1,4 +1,4 @@
-.*
+*
 !.gitignore
 !export_to_pdf.py
 !get_book_image.py
